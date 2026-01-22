@@ -1,8 +1,0 @@
-*.json
-*.pyd
-*.pyc
-*.pyo
-venv/
-env/
-.venv/
-twitch_config.json
