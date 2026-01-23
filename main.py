@@ -10,7 +10,7 @@ class TwitchBot:
         self.irc_server = "irc.chat.twitch.tv"
         self.irc_port = 6667
         self.oauth_token = None
-        self.access_token = None  # Токен без oauth: префикса
+        self.access_token = None 
         self.client_id = None
         self.username = None
         self.channel = None
